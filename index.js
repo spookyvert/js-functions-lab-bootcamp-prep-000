@@ -5,12 +5,12 @@ function add(x , y , z){
 
 console.log(add(1,1,1))
 
-function happyHolidays{
+function happyHolidays(){
   return `Happy Holidays!`
 }
 
-function happyHolidaysTo(holiday,name){
-  return `Happy ${holiday}, ${name}!`
+function happyHolidaysTo(name){
+  return `Happy holidays, ${name}!`
 }
 
 function holidayCountdown(holiday, days){
