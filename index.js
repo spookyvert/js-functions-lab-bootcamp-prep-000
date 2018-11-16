@@ -1,5 +1,5 @@
 // write your code below!
-function add(x + y + z){
+function add(x , y , z){
   return x + y + z
 }
 
