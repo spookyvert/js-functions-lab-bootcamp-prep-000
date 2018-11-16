@@ -4,3 +4,7 @@ function add(x , y , z){
 }
 
 console.log(add(1,1,1))
+
+function happyHoldays(name){
+  return `Happy Holidays, ${name}!`
+}
